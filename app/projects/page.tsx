@@ -1,15 +1,16 @@
 export default function Projects() {
   const projects = [
     {
-	  id: 1,
-	  title: "Personal Portfolio Website",
-	  category: "🌐 Web Development",
-	  description: "Built this portfolio site from scratch using Next.js, React, and Tailwind CSS. Features responsive design, automatic deployments, and modern web architecture.",
-	  technologies: ["Next.js", "React", "TypeScript", "Tailwind CSS", "Vercel"],
-	  github: "https://github.com/swathiaiml/swathi-portfolio",
-	  demo: "https://swathimuthyala.com",
-	  status: "Production"
-	}
+      id: 1,
+      title: "Personal Portfolio Website",
+      category: "🌐 Web Development",
+      description: "Built this portfolio site from scratch using Next.js, React, and Tailwind CSS. Features responsive design, automatic deployments, and modern web architecture.",
+      impact: "Live professional portfolio showcasing technical skills", // ← ADDED THIS
+      technologies: ["Next.js", "React", "TypeScript", "Tailwind CSS", "Vercel"],
+      github: "https://github.com/swathiaiml/swathi-portfolio",
+      demo: "https://swathimuthyala.com",
+      status: "Production"
+    }
   ];
 
   return (
