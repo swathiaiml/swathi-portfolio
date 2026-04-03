@@ -16,7 +16,7 @@ export default function Home() {
           
           {/* Description */}
           <p className="text-lg text-gray-700 max-w-3xl mx-auto leading-relaxed">
-            21 years building data platforms that empower teams to make smarter 
+            21+ years building data platforms that empower teams to make smarter 
             decisions and drive innovation at market speed. Currently exploring 
             AI/ML to transform how organizations leverage their data.
           </p>
