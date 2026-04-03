@@ -1,71 +1,15 @@
 export default function Projects() {
   const projects = [
     {
-      id: 1,
-      title: "RAG System for Pharmaceutical Documents",
-      category: "🤖 AI/ML",
-      description: "Built Q&A system for GxP compliance documents using LangChain, Pinecone, and Claude API. Reduces document search time from hours to seconds.",
-      impact: "Automated compliance document retrieval",
-      technologies: ["LangChain", "Claude API", "Pinecone", "Python", "Streamlit"],
-      github: "#", // Add your GitHub link later
-      demo: "#",   // Add your demo link later
-      status: "In Development"
-    },
-    {
-      id: 2,
-      title: "Power BI Supply Chain Dashboard",
-      category: "📊 Analytics",
-      description: "End-to-end supply chain visibility connecting D365 Finance & Operations via OData. Real-time inventory tracking, OTIF monitoring, and 3PL reconciliation across multiple warehouses.",
-      impact: "Real-time visibility across 3 warehouses",
-      technologies: ["Power BI", "DAX", "Power Query M", "D365 F&O", "OData"],
-      github: "#",
-      demo: "#",
-      status: "Production"
-    },
-    {
-      id: 3,
-      title: "LLM-Powered Data Quality Framework",
-      category: "🤖 AI/ML",
-      description: "Automated data quality checks using Claude API to detect anomalies, validate schemas, and suggest fixes. Integrated with existing ETL pipelines for real-time validation.",
-      impact: "70% reduction in manual validation time",
-      technologies: ["Python", "Claude API", "Pandas", "Great Expectations"],
-      github: "#",
-      demo: "#",
-      status: "In Development"
-    },
-    {
-      id: 4,
-      title: "Pharmaceutical Pricing PDF Extractor",
-      category: "⚙️ Data Engineering",
-      description: "Automated extraction of pharmaceutical pricing data from complex PDF contracts. Handles variable table formats, NDC patterns, and multi-page agreements.",
-      impact: "60% accuracy on complex pricing tables",
-      technologies: ["Python", "PyMuPDF", "Regex", "Pandas", "OpenCV"],
-      github: "#",
-      demo: "#",
-      status: "Completed"
-    },
-    {
-      id: 5,
-      title: "Gen AI Center of Excellence",
-      category: "🏗️ Practice Building",
-      description: "Founded and scaled enterprise Gen AI practice from zero. Built frameworks for safe AI adoption, developed use cases across departments, and established governance policies.",
-      impact: "$15M in cost savings across organization",
-      technologies: ["Claude API", "LangChain", "Azure OpenAI", "Governance Frameworks"],
-      github: "#",
-      demo: "#",
-      status: "Completed"
-    },
-    {
-      id: 6,
-      title: "D365 F&O OData Integration Framework",
-      category: "⚙️ Data Engineering",
-      description: "Reusable framework for connecting Power BI to D365 Finance & Operations via OData. Includes error handling, parameter patterns, and performance optimization techniques.",
-      impact: "Reduced integration time from weeks to days",
-      technologies: ["Power Query M", "OData", "D365 F&O", "Power BI"],
-      github: "#",
-      demo: "#",
-      status: "Production"
-    }
+	  id: 1,
+	  title: "Personal Portfolio Website",
+	  category: "🌐 Web Development",
+	  description: "Built this portfolio site from scratch using Next.js, React, and Tailwind CSS. Features responsive design, automatic deployments, and modern web architecture.",
+	  technologies: ["Next.js", "React", "TypeScript", "Tailwind CSS", "Vercel"],
+	  github: "https://github.com/swathiaiml/swathi-portfolio",
+	  demo: "https://swathimuthyala.com",
+	  status: "Production"
+	}
   ];
 
   return (

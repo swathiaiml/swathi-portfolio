@@ -17,8 +17,8 @@ export default function Home() {
           {/* Description */}
           <p className="text-lg text-gray-700 max-w-3xl mx-auto leading-relaxed">
             21+ years building data platforms that empower teams to make smarter 
-            decisions and drive innovation at market speed. Currently exploring 
-            AI/ML to transform how organizations leverage their data.
+            decisions and drive innovation at market speed. Currently building 
+            AI projects to transform how organizations leverage their data.
           </p>
           
           {/* CTA Buttons */}
@@ -76,8 +76,8 @@ export default function Home() {
           Core Expertise
         </h2>
         <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
-          {['Python', 'SQL', 'Snowflake', 'Power BI', 'Claude AI', 'AWS', 
-            'Azure', 'D365 F&O', 'Databricks', 'Informatica', 'LangChain', 'DAX'].map((skill) => (
+          {['AIML', 'LangChain', 'Python', 'SQL', 'Snowflake', 'Databricks', 'Informatica', 'Power BI', 
+		  'Claude AI', 'ChatGPT', 'AWS', 'Azure'].map((skill) => (
             <div 
               key={skill}
               className="px-4 py-3 bg-white rounded-lg border-2 border-gray-200 

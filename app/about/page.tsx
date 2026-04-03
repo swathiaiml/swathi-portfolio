@@ -11,8 +11,8 @@ export default function About() {
         {/* Professional Summary */}
         <div className="prose prose-lg max-w-none">
           <p className="text-xl text-gray-700 leading-relaxed mb-6">
-            I'm a Senior Data Engineering and Analytics Leader with 21 years of 
-            experience building data platforms that transform how organizations 
+            I'm a Senior Data Engineering, Analytics and AIML Leader with 21 years of 
+            experience building AI powered data platforms that transform how organizations 
             leverage their data.
           </p>
 
@@ -26,14 +26,14 @@ export default function About() {
 
           <p className="text-gray-700 leading-relaxed mb-6">
             What drives me is the intersection of data engineering and AI/ML. I 
-            founded a Generative AI Center of Excellence that generated $15M in 
-            cost savings, and I use Claude API in production daily for everything 
+            founded a Generative AI Center of Excellence that generated $**M in 
+            cost savings, and I use Claude API and CahtGPT in production daily for everything 
             from document intelligence to automated pipeline development.
           </p>
 
           <p className="text-gray-700 leading-relaxed mb-8">
             Beyond technical execution, I'm passionate about mentoring. I've mentored 
-            15+ data professionals, with 8 promoted to senior or lead roles. Building 
+            data professionals in data Engineering, Analytics and GenAI to achecieve their project goals and senior roles. Building 
             teams and developing talent is as important to me as building great data systems.
           </p>
 
@@ -50,10 +50,10 @@ export default function About() {
                 Cronus Pharma LLC
               </h3>
               <p className="text-gray-600 mb-2">
-                Data Management Specialist | 2024 - Present
+                Data Management Specialist, Global IT | 2025 - Present
               </p>
               <p className="text-gray-700">
-                Leading data engineering, Power BI analytics, and D365 F&O integrations. 
+                Leading data engineering, Power BI analytics, DSCSA, EDI and D365 F&O integrations. 
                 Built supply chain dashboards, implemented OData connections, and 
                 developed AI-powered document intelligence systems.
               </p>
@@ -69,7 +69,7 @@ export default function About() {
               </p>
               <p className="text-gray-700">
                 Led $50M+ data transformation programs for Fortune 100 clients. 
-                Founded Generative AI Center of Excellence generating $15M in cost 
+                Founded Generative AI Center of Excellence generating $**M in cost 
                 savings. Managed 100-member teams across cloud data platforms, 
                 analytics, and AI/ML initiatives.
               </p>
@@ -81,12 +81,10 @@ export default function About() {
                 ServiceNow
               </h3>
               <p className="text-gray-600 mb-2">
-                Data Engineering Leader | ~2016 - 2022
+                Manager - Data Engineering Leader | 2016 - 2022
               </p>
               <p className="text-gray-700">
-                Built Enterprise Data Services practice from ground up (0→20 members). 
-                Established data governance frameworks, modern data architecture 
-                patterns, and self-service analytics capabilities serving Sales, 
+                Established data quality and data governance frameworks for master data managment and served data requirements of Sales, 
                 Marketing, Finance, and Customer Success teams.
               </p>
             </div>
@@ -110,6 +108,7 @@ export default function About() {
                 <li>• Data Architecture & Modeling</li>
                 <li>• Informatica, Azure Data Factory</li>
                 <li>• Real-time Data Integration</li>
+				<li>• Data Governance amd Quality</li>
               </ul>
             </div>
 
@@ -119,7 +118,7 @@ export default function About() {
               </h3>
               <ul className="space-y-2 text-gray-700">
                 <li>• Power BI (Expert - DAX, Power Query M)</li>
-                <li>• Dashboard Development</li>
+                <li>• Semantic model Development</li>
                 <li>• Data Visualization</li>
                 <li>• Self-Service Analytics</li>
                 <li>• BI Strategy & Governance</li>
@@ -160,7 +159,7 @@ export default function About() {
               Let's Connect
             </h3>
             <p className="text-gray-700 mb-4">
-              I'm always interested in discussing data engineering, AI/ML, and 
+              I'm always interested in discussing data engineering, AI/ML, Analytics and 
               opportunities to build impactful data solutions.
             </p>
             <a 

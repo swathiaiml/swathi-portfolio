@@ -15,8 +15,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Swathi Muthyala - Data Engineering & Analytics Leader",
-  description: "Senior Manager with 21 years of experience in data engineering, Power BI analytics, and enterprise platform leadership.",
+  title: "Swathi Muthyala - Data Engineering, Analytics & AI Leader",
+  description: "Senior leader with 21 years of experience in data engineering, analytics, and AI powered enterprise platform.",
 };
 
 export default function RootLayout({

@@ -47,7 +47,7 @@ export default function Footer() {
             <ul className="space-y-2">
               <li>
                 <a 
-                  href="mailto:sw.muthyala@gmail.com"
+                  href="mailto:******@gmail.com"
                   className="text-gray-400 hover:text-white transition-colors"
                 >
                   📧 Email
@@ -55,7 +55,7 @@ export default function Footer() {
               </li>
               <li>
                 <a 
-                  href="https://www.linkedin.com/in/swathimuthyala"
+                  href="https://www.linkedin.com/in/swathi-muthyala-dataspecialist/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-gray-400 hover:text-white transition-colors"
@@ -65,7 +65,7 @@ export default function Footer() {
               </li>
               <li>
                 <a 
-                  href="https://github.com/swathimuthyala"
+                  href="https://github.com/swathiaiml"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-gray-400 hover:text-white transition-colors"

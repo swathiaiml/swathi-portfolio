@@ -115,7 +115,7 @@ export default function Blog() {
             Want to know when I publish new articles? Connect with me on LinkedIn!
           </p>
           <a 
-            href="https://www.linkedin.com/in/swathimuthyala"
+            href="https://www.linkedin.com/in/swathi-muthyala-dataspecialist/"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-block px-8 py-3 bg-blue-600 text-white rounded-lg 

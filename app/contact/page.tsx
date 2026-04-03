@@ -9,7 +9,7 @@ export default function Contact() {
             Get in Touch
           </h1>
           <p className="text-xl text-gray-600">
-            Let's discuss data engineering, AI/ML, or potential opportunities.
+            Let's discuss Data engineering, Analytics, AI/ML, or potential opportunities.
           </p>
         </div>
 
@@ -27,10 +27,10 @@ export default function Contact() {
                     Email
                   </h3>
                   <a 
-                    href="mailto:sw.muthyala@gmail.com"
+                    href="mailto:******@gmail.com"
                     className="text-blue-600 hover:text-blue-700 font-medium"
                   >
-                    sw.muthyala@gmail.com
+                    ******@gmail.com
                   </a>
                 </div>
               </div>
@@ -45,7 +45,7 @@ export default function Contact() {
                     LinkedIn
                   </h3>
                   <a 
-                    href="https://www.linkedin.com/in/swathimuthyala"
+                    href="https://www.linkedin.com/in/swathi-muthyala-dataspecialist/"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="text-blue-600 hover:text-blue-700 font-medium"
@@ -65,7 +65,7 @@ export default function Contact() {
                     GitHub
                   </h3>
                   <a 
-                    href="https://github.com/swathimuthyala"
+                    href="https://github.com/swathiaiml"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="text-blue-600 hover:text-blue-700 font-medium"
@@ -86,7 +86,6 @@ export default function Contact() {
                   </h3>
                   <p className="text-gray-600">
                     East Brunswick, NJ<br />
-                    Open to: Remote, NYC, or NJ
                   </p>
                 </div>
               </div>
