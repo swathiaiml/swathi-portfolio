@@ -1,36 +1,43 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Swathi Muthyala - Professional Portfolio
 
-## Getting Started
+Personal portfolio website showcasing my data engineering, analytics, and AI/ML expertise.
 
-First, run the development server:
+🌐 **Live Site:** [swathimuthyala.com](https://swathimuthyala.com)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Tech Stack
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- **Framework:** Next.js 15
+- **UI Library:** React 19
+- **Styling:** Tailwind CSS
+- **Language:** TypeScript
+- **Deployment:** Vercel
+- **Version Control:** Git & GitHub
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Features
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- 📱 Responsive design (mobile, tablet, desktop)
+- 🎨 Modern UI with Tailwind CSS
+- ⚡ Fast performance with Next.js App Router
+- 📝 Blog-ready structure
+- 🚀 Automated deployments via Vercel
 
-## Learn More
+## About Me
 
-To learn more about Next.js, take a look at the following resources:
+Senior Data Engineering & Analytics Leader with 21+ years of experience building enterprise data platforms. Currently building AI/ML applications in data engineering and analytics.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Projects Showcased
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+- RAG System for Pharmaceutical Documents (LangChain, Claude API)
+- Power BI Supply Chain Dashboards (D365 F&O integration)
+- LLM-Powered Data Quality Framework
+- Gen AI Center of Excellence ($15M impact)
 
-## Deploy on Vercel
+## Contact
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- 📧 Email: ******@gmail.com
+- 💼 LinkedIn: [linkedin.com/in/swathi-muthyala-dataspecialist/](https://www.linkedin.com/in/swathi-muthyala-dataspecialist/)
+- 🌐 Website: [swathimuthyala.com](https://swathimuthyala.com)
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
+
+© 2026 Swathi Muthyala. Built with Next.js and deployed on Vercel.
